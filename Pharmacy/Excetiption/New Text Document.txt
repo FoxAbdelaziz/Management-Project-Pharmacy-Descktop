@@ -1,0 +1,5 @@
+An unhandled exception of type 'System.Data.SqlClient.SqlException' occurred in System.Data.dll
+
+Additional information: The DELETE statement conflicted with the REFERENCE constraint "FK_TblRequestsDetails_ToTblProducts". The conflict occurred in database "Pharmacy_DB", table "dbo.TblRequestsDetails", column 'P_ID'.
+
+The statement has been terminated.

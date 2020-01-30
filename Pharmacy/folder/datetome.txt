@@ -1,0 +1,19 @@
+DateTime time = DateTime.Now;              // Use current time
+ string format = "yyyy-MM-dd HH:mm:ss";    // modify the format depending upon input required in the column in database 
+ string insert = @" insert into Table(DateTime Column) values ('" + time.ToString(format) + "')"; 
+
+
+
+======================================
+DateTime.Now.ToString("dd/MM/yyyy")
+======================================
+
+
+
+DateTime dt = DateTime.Parse("6/22/2009 07:00:00 AM");
+
+dt.ToString("HH:mm"); // 07:00 // 24 hour clock // hour is always 2 digits
+dt.ToString("hh:mm tt"); // 07:00 AM // 12 hour clock // hour is always 2 digits
+dt.ToString("H:mm"); // 7:00 // 24 hour clock
+dt.ToString("h:mm tt"); // 7:00 AM // 12 hour clock
+

@@ -1,0 +1,556 @@
+C:\Users\admin\documents\visual studio 2015\Projects\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\Database_Pharmacy.mdf
+C:\Users\admin\documents\visual studio 2015\Projects\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\Database_Pharmacy_log.ldf
+C:\Users\admin\documents\visual studio 2015\Projects\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\Management Project Pharmacy.exe.config
+C:\Users\admin\documents\visual studio 2015\Projects\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\Management Project Pharmacy.exe
+C:\Users\admin\documents\visual studio 2015\Projects\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\Management Project Pharmacy.pdb
+C:\Users\admin\documents\visual studio 2015\Projects\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRMMAIM.resources
+C:\Users\admin\documents\visual studio 2015\Projects\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_ACTIVEMAERIALMANAGEMENT.resources
+C:\Users\admin\documents\visual studio 2015\Projects\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_ADDACTIVEMATE.resources
+C:\Users\admin\documents\visual studio 2015\Projects\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_ADDCATAGORY.resources
+C:\Users\admin\documents\visual studio 2015\Projects\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_ADDNEWPRODUCT.resources
+C:\Users\admin\documents\visual studio 2015\Projects\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_ADDSCIENTIFICNNAME.resources
+C:\Users\admin\documents\visual studio 2015\Projects\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_CATEGORYMANGEMENT.resources
+C:\Users\admin\documents\visual studio 2015\Projects\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.FRM_LOGIN.resources
+C:\Users\admin\documents\visual studio 2015\Projects\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_PRDOUTIMAGE.resources
+C:\Users\admin\documents\visual studio 2015\Projects\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_PRODUCTMANAGEMENT.resources
+C:\Users\admin\documents\visual studio 2015\Projects\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_SCINTFICNAMEMEANAGEMENT.resources
+C:\Users\admin\documents\visual studio 2015\Projects\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.Properties.Resources.resources
+C:\Users\admin\documents\visual studio 2015\Projects\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management Project Pharmacy.csproj.GenerateResource.Cache
+C:\Users\admin\documents\visual studio 2015\Projects\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management Project Pharmacy.exe
+C:\Users\admin\documents\visual studio 2015\Projects\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management Project Pharmacy.pdb
+C:\Users\admin\documents\visual studio 2015\Projects\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_PRODUCTEXPIRDATE.resources
+C:\Users\admin\documents\visual studio 2015\Projects\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management Project Pharmacy.csprojResolveAssemblyReference.cache
+C:\Users\admin\documents\visual studio 2015\Projects\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.RPT.FRM_REPORTS.resources
+C:\Users\admin\documents\visual studio 2015\Projects\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\admin\documents\visual studio 2015\Projects\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\admin\documents\visual studio 2015\Projects\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\admin\documents\visual studio 2015\Projects\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\admin\documents\visual studio 2015\Projects\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\admin\documents\visual studio 2015\Projects\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\admin\documents\visual studio 2015\Projects\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\admin\documents\visual studio 2015\Projects\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\admin\documents\visual studio 2015\Projects\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\admin\documents\visual studio 2015\Projects\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\admin\documents\visual studio 2015\Projects\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\admin\documents\visual studio 2015\Projects\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\admin\documents\visual studio 2015\Projects\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\admin\documents\visual studio 2015\Projects\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\stdole.dll
+C:\Users\admin\documents\visual studio 2015\Projects\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\admin\documents\visual studio 2015\Projects\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\admin\documents\visual studio 2015\Projects\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\Visual Studio 2015\Projects\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\Management Project Pharmacy.exe.config
+D:\Visual Studio 2015\Projects\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management Project Pharmacy.exe
+D:\Visual Studio 2015\Projects\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management Project Pharmacy.pdb
+D:\Visual Studio 2015\Projects\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\Database_Pharmacy.mdf
+D:\Visual Studio 2015\Projects\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\Database_Pharmacy_log.ldf
+D:\Visual Studio 2015\Projects\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\Management Project Pharmacy.exe
+D:\Visual Studio 2015\Projects\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\Management Project Pharmacy.pdb
+D:\Visual Studio 2015\Projects\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management Project Pharmacy.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\Projects\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRMMAIM.resources
+D:\Visual Studio 2015\Projects\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_ACTIVEMAERIALMANAGEMENT.resources
+D:\Visual Studio 2015\Projects\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_ADDACTIVEMATE.resources
+D:\Visual Studio 2015\Projects\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_ADDCATAGORY.resources
+D:\Visual Studio 2015\Projects\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_ADDNEWPRODUCT.resources
+D:\Visual Studio 2015\Projects\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_ADDSCIENTIFICNNAME.resources
+D:\Visual Studio 2015\Projects\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_CATEGORYMANGEMENT.resources
+D:\Visual Studio 2015\Projects\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.FRM_LOGIN.resources
+D:\Visual Studio 2015\Projects\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_PRDOUTIMAGE.resources
+D:\Visual Studio 2015\Projects\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_PRODUCTEXPIRDATE.resources
+D:\Visual Studio 2015\Projects\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_PRODUCTMANAGEMENT.resources
+D:\Visual Studio 2015\Projects\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_SCINTFICNAMEMEANAGEMENT.resources
+D:\Visual Studio 2015\Projects\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.Properties.Resources.resources
+D:\Visual Studio 2015\Projects\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.RPT.FRM_REPORTS.resources
+D:\Visual Studio 2015\Projects\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management Project Pharmacy.csproj.GenerateResource.Cache
+D:\Visual Studio 2015\Projects\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Visual Studio 2015\Projects\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Visual Studio 2015\Projects\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\CrystalDecisions.Shared.dll
+D:\Visual Studio 2015\Projects\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Visual Studio 2015\Projects\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\FlashControlV71.dll
+D:\Visual Studio 2015\Projects\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Visual Studio 2015\Projects\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Visual Studio 2015\Projects\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Visual Studio 2015\Projects\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Visual Studio 2015\Projects\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Visual Studio 2015\Projects\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Visual Studio 2015\Projects\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Visual Studio 2015\Projects\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Visual Studio 2015\Projects\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Visual Studio 2015\Projects\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Visual Studio 2015\Projects\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Visual Studio 2015\Projects\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\ShockwaveFlashObjects.dll
+D:\Visual Studio 2015\Projects\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Visual Studio 2015\Projects\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\stdole.dll
+D:\Visual Studio 2015\Projects\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_ADDNEWSUPPLIER.resources
+F:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\Database_Pharmacy.mdf
+F:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\Database_Pharmacy_log.ldf
+F:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\Management Project Pharmacy.exe.config
+F:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\Management Project Pharmacy.exe
+F:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\Management Project Pharmacy.pdb
+F:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\CrystalDecisions.Shared.dll
+F:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\FlashControlV71.dll
+F:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\ShockwaveFlashObjects.dll
+F:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\stdole.dll
+F:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management Project Pharmacy.csprojResolveAssemblyReference.cache
+F:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRMMAIM.resources
+F:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_ACTIVEMAERIALMANAGEMENT.resources
+F:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_ADDACTIVEMATE.resources
+F:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_ADDCATAGORY.resources
+F:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_ADDNEWPRODUCT.resources
+F:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_ADDNEWPURCHASSE.resources
+F:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_ADDNEWSUPPLIER.resources
+F:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_ADDSCIENTIFICNNAME.resources
+F:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_CATEGORYMANGEMENT.resources
+F:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.FRM_LOGIN.resources
+F:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_PRDOUTIMAGE.resources
+F:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_PRODUCTEXPIRDATE.resources
+F:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_PRODUCTMANAGEMENT.resources
+F:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_SCINTFICNAMEMEANAGEMENT.resources
+F:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_SEARCH.resources
+F:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_SUPPLIERSMANGEMENT.resources
+F:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.Properties.Resources.resources
+F:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.RPT.FRM_REPORTS.resources
+F:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management Project Pharmacy.csproj.GenerateResource.Cache
+F:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management Project Pharmacy.exe
+F:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management Project Pharmacy.pdb
+F:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_REQUEST_MANAGEMENT.resources
+F:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.Form1.resources
+F:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_CITY.resources
+F:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_COUNTRY.resources
+G:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\Database_Pharmacy.mdf
+G:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\Database_Pharmacy_log.ldf
+G:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\Management Project Pharmacy.exe.config
+G:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\Management Project Pharmacy.exe
+G:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\Management Project Pharmacy.pdb
+G:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+G:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportSource.dll
+G:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\CrystalDecisions.Shared.dll
+G:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\CrystalDecisions.Windows.Forms.dll
+G:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\DevExpress.Data.v16.1.dll
+G:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\DevExpress.Printing.v16.1.Core.dll
+G:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\DevExpress.Sparkline.v16.1.Core.dll
+G:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\DevExpress.Utils.v16.1.dll
+G:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\DevExpress.XtraEditors.v16.1.dll
+G:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\FlashControlV71.dll
+G:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+G:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+G:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+G:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+G:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+G:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+G:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+G:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+G:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+G:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+G:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+G:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\DevExpress.Pdf.v16.1.Core.dll
+G:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\ShockwaveFlashObjects.dll
+G:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+G:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\stdole.dll
+G:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\DevExpress.Data.v16.1.xml
+G:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+G:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\DevExpress.Sparkline.v16.1.Core.xml
+G:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\DevExpress.Utils.v16.1.xml
+G:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+G:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\DevExpress.Pdf.v16.1.Core.xml
+G:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+G:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+G:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+G:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+G:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+G:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+G:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+G:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+G:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+G:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+G:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+G:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+G:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+G:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+G:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+G:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+G:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+G:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+G:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+G:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+G:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\de\DevExpress.Pdf.v16.1.Core.resources.dll
+G:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\es\DevExpress.Pdf.v16.1.Core.resources.dll
+G:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+G:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+G:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.Form1.resources
+G:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_ADDNEWCUSTOMR.resources
+G:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_CITY.resources
+G:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_COUNTRY.resources
+G:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRMMAIM.resources
+G:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_ACTIVEMAERIALMANAGEMENT.resources
+G:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_ADDACTIVEMATE.resources
+G:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_ADDCATAGORY.resources
+G:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_ADDNEWPRODUCT.resources
+G:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_ADDNEWPURCHASSE.resources
+G:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_ADDNEWSUPPLIER.resources
+G:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_ADDSCIENTIFICNNAME.resources
+G:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_CATEGORYMANGEMENT.resources
+G:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.FRM_LOGIN.resources
+G:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_PRDOUTIMAGE.resources
+G:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_PRODUCTEXPIRDATE.resources
+G:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_PRODUCTMANAGEMENT.resources
+G:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_REQUEST_MANAGEMENT.resources
+G:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_SCINTFICNAMEMEANAGEMENT.resources
+G:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_SEARCH.resources
+G:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_SUPPLIERSMANGEMENT.resources
+G:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.Properties.Resources.resources
+G:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.RPT.FRM_REPORTS.resources
+G:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management Project Pharmacy.csproj.GenerateResource.Cache
+G:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management Project Pharmacy.exe.licenses
+G:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management Project Pharmacy.exe
+G:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management Project Pharmacy.pdb
+G:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management Project Pharmacy.csprojResolveAssemblyReference.cache
+G:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_CUSTOMRMSMANAGEMNT.resources
+G:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_ADDNEWORDER.resources
+H:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\Database_Pharmacy.mdf
+H:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\Database_Pharmacy_log.ldf
+H:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\Management Project Pharmacy.exe.config
+H:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\Management Project Pharmacy.exe
+H:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\Management Project Pharmacy.pdb
+H:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+H:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportSource.dll
+H:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\CrystalDecisions.Shared.dll
+H:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\CrystalDecisions.Windows.Forms.dll
+H:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\FlashControlV71.dll
+H:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+H:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+H:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+H:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+H:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+H:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+H:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+H:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+H:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+H:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+H:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+H:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+H:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\ShockwaveFlashObjects.dll
+H:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+H:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\stdole.dll
+H:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management Project Pharmacy.csprojResolveAssemblyReference.cache
+H:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_ADDNEWCUSTOMR.resources
+H:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_ADDNEWORDER.resources
+H:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_ADDNEWUSER.resources
+H:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_CITY.resources
+H:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_COUNTRY.resources
+H:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_CUSTOMRMSMANAGEMNT.resources
+H:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.BL.FRM_ORDERMANGEMNT.resources
+H:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_USER_MANGEMENT.resources
+H:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.Report_Vie.Frm_Rpt_AllProduct.resources
+H:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRMMAIM.resources
+H:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_ACTIVEMAERIALMANAGEMENT.resources
+H:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_ADDACTIVEMATE.resources
+H:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_ADDCATAGORY.resources
+H:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_ADDNEWPRODUCT.resources
+H:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_ADDNEWPURCHASSE.resources
+H:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_ADDNEWSUPPLIER.resources
+H:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_ADDSCIENTIFICNNAME.resources
+H:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_CATEGORYMANGEMENT.resources
+H:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.FRM_LOGIN.resources
+H:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_PRDOUTIMAGE.resources
+H:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_PRODUCTEXPIRDATE.resources
+H:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_PRODUCTMANAGEMENT.resources
+H:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_REQUEST_MANAGEMENT.resources
+H:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_SCINTFICNAMEMEANAGEMENT.resources
+H:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_SEARCH.resources
+H:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_SUPPLIERSMANGEMENT.resources
+H:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.Properties.Resources.resources
+H:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.RPT.FRM_REPORTS.resources
+H:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management Project Pharmacy.csproj.GenerateResource.Cache
+H:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management Project Pharmacy.exe.licenses
+H:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\RdlCompile.cache
+H:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\RdlCompile.compiled
+H:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management Project Pharmacy.exe
+H:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management Project Pharmacy.pdb
+C:\Users\Abdelaziz\Desktop\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\Management Project Pharmacy.exe.config
+C:\Users\Abdelaziz\Desktop\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\Management Project Pharmacy.exe
+C:\Users\Abdelaziz\Desktop\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\Management Project Pharmacy.pdb
+C:\Users\Abdelaziz\Desktop\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\FlashControlV71.dll
+C:\Users\Abdelaziz\Desktop\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Abdelaziz\Desktop\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Abdelaziz\Desktop\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\stdole.dll
+C:\Users\Abdelaziz\Desktop\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_ADDNEWCUSTOMR.resources
+C:\Users\Abdelaziz\Desktop\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_ADDNEWORDER.resources
+C:\Users\Abdelaziz\Desktop\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_ADDNEWUSER.resources
+C:\Users\Abdelaziz\Desktop\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_CITY.resources
+C:\Users\Abdelaziz\Desktop\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_COUNTRY.resources
+C:\Users\Abdelaziz\Desktop\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_CUSTOMRMSMANAGEMNT.resources
+C:\Users\Abdelaziz\Desktop\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.BL.FRM_ORDERMANGEMNT.resources
+C:\Users\Abdelaziz\Desktop\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_USER_MANGEMENT.resources
+C:\Users\Abdelaziz\Desktop\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.Report_View.Rpt_Users.resources
+C:\Users\Abdelaziz\Desktop\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRMMAIM.resources
+C:\Users\Abdelaziz\Desktop\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_ACTIVEMAERIALMANAGEMENT.resources
+C:\Users\Abdelaziz\Desktop\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_ADDACTIVEMATE.resources
+C:\Users\Abdelaziz\Desktop\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_ADDCATAGORY.resources
+C:\Users\Abdelaziz\Desktop\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_ADDNEWPRODUCT.resources
+C:\Users\Abdelaziz\Desktop\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_ADDNEWPURCHASSE.resources
+C:\Users\Abdelaziz\Desktop\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_ADDNEWSUPPLIER.resources
+C:\Users\Abdelaziz\Desktop\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_ADDSCIENTIFICNNAME.resources
+C:\Users\Abdelaziz\Desktop\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_CATEGORYMANGEMENT.resources
+C:\Users\Abdelaziz\Desktop\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.FRM_LOGIN.resources
+C:\Users\Abdelaziz\Desktop\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_PRDOUTIMAGE.resources
+C:\Users\Abdelaziz\Desktop\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_PRODUCTEXPIRDATE.resources
+C:\Users\Abdelaziz\Desktop\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_PRODUCTMANAGEMENT.resources
+C:\Users\Abdelaziz\Desktop\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_REQUEST_MANAGEMENT.resources
+C:\Users\Abdelaziz\Desktop\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_SCINTFICNAMEMEANAGEMENT.resources
+C:\Users\Abdelaziz\Desktop\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_SEARCH.resources
+C:\Users\Abdelaziz\Desktop\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_SUPPLIERSMANGEMENT.resources
+C:\Users\Abdelaziz\Desktop\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.Properties.Resources.resources
+C:\Users\Abdelaziz\Desktop\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management Project Pharmacy.csproj.GenerateResource.Cache
+C:\Users\Abdelaziz\Desktop\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management Project Pharmacy.exe.licenses
+C:\Users\Abdelaziz\Desktop\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\RdlCompile.cache
+C:\Users\Abdelaziz\Desktop\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\RdlCompile.compiled
+C:\Users\Abdelaziz\Desktop\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management Project Pharmacy.exe
+C:\Users\Abdelaziz\Desktop\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management Project Pharmacy.pdb
+C:\Users\Abdelaziz\Desktop\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management Project Pharmacy.csprojResolveAssemblyReference.cache
+C:\Users\Abdelaziz\Desktop\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.Report_View.Rpt_SecintificName.resources
+C:\Users\Abdelaziz\Desktop\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.Report_View.Rpt_actlvemaerlal.resources
+E:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\Management Project Pharmacy.exe.config
+E:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\Management Project Pharmacy.exe
+E:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\Management Project Pharmacy.pdb
+E:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\FlashControlV71.dll
+E:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\ShockwaveFlashObjects.dll
+E:\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\stdole.dll
+E:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management Project Pharmacy.csprojResolveAssemblyReference.cache
+E:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_ADDNEWCUSTOMR.resources
+E:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_ADDNEWORDER.resources
+E:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_ADDNEWUSER.resources
+E:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_CITY.resources
+E:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_COUNTRY.resources
+E:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_CUSTOMRMSMANAGEMNT.resources
+E:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.BL.FRM_ORDERMANGEMNT.resources
+E:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_USER_MANGEMENT.resources
+E:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.Report_View.Rpt_Order.resources
+E:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.Report_View.Rpt_Category.resources
+E:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.Report_View.Rpt_Requst.resources
+E:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.Report_View.Rpt_actlvemaerlal.resources
+E:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.Report_View.Rpt_SecintificName.resources
+E:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRMMAIM.resources
+E:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_ACTIVEMAERIALMANAGEMENT.resources
+E:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_ADDACTIVEMATE.resources
+E:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_ADDCATAGORY.resources
+E:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_ADDNEWPRODUCT.resources
+E:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_ADDNEWPURCHASSE.resources
+E:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_ADDNEWSUPPLIER.resources
+E:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_ADDSCIENTIFICNNAME.resources
+E:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_CATEGORYMANGEMENT.resources
+E:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.FRM_LOGIN.resources
+E:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_PRDOUTIMAGE.resources
+E:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_PRODUCTEXPIRDATE.resources
+E:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_PRODUCTMANAGEMENT.resources
+E:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_REQUEST_MANAGEMENT.resources
+E:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_SCINTFICNAMEMEANAGEMENT.resources
+E:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_SEARCH.resources
+E:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_SUPPLIERSMANGEMENT.resources
+E:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.Properties.Resources.resources
+E:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management Project Pharmacy.csproj.GenerateResource.Cache
+E:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management Project Pharmacy.exe.licenses
+E:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\RdlCompile.cache
+E:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\RdlCompile.compiled
+E:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management Project Pharmacy.exe
+E:\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management Project Pharmacy.pdb
+D:\Projects\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\Management Project Pharmacy.exe.config
+D:\Projects\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management Project Pharmacy.exe
+D:\Projects\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management Project Pharmacy.pdb
+D:\Projects\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\Management Project Pharmacy.exe
+D:\Projects\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\Management Project Pharmacy.pdb
+D:\Projects\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Projects\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Projects\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\Projects\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\Projects\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\Projects\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\Projects\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\Projects\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\Projects\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\Projects\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\Projects\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\Projects\Management Project Pharmacy\Management Project Pharmacy\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\Projects\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management Project Pharmacy.csprojResolveAssemblyReference.cache
+D:\Projects\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_ADDNEWCUSTOMR.resources
+D:\Projects\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_ADDNEWORDER.resources
+D:\Projects\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_ADDNEWUSER.resources
+D:\Projects\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_CITY.resources
+D:\Projects\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_COUNTRY.resources
+D:\Projects\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_CUSTOMRMSMANAGEMNT.resources
+D:\Projects\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.BL.FRM_ORDERMANGEMNT.resources
+D:\Projects\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_USER_MANGEMENT.resources
+D:\Projects\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.Report_View.Rpt_Order.resources
+D:\Projects\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.Report_View.Rpt_Category.resources
+D:\Projects\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.Report_View.Rpt_Requst.resources
+D:\Projects\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.Report_View.Rpt_actlvemaerlal.resources
+D:\Projects\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.Report_View.Rpt_SecintificName.resources
+D:\Projects\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRMMAIM.resources
+D:\Projects\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_ACTIVEMAERIALMANAGEMENT.resources
+D:\Projects\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_ADDACTIVEMATE.resources
+D:\Projects\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_ADDCATAGORY.resources
+D:\Projects\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_ADDNEWPRODUCT.resources
+D:\Projects\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_ADDNEWPURCHASSE.resources
+D:\Projects\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_ADDNEWSUPPLIER.resources
+D:\Projects\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_ADDSCIENTIFICNNAME.resources
+D:\Projects\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_CATEGORYMANGEMENT.resources
+D:\Projects\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.FRM_LOGIN.resources
+D:\Projects\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_PRDOUTIMAGE.resources
+D:\Projects\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_PRODUCTEXPIRDATE.resources
+D:\Projects\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_PRODUCTMANAGEMENT.resources
+D:\Projects\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_REQUEST_MANAGEMENT.resources
+D:\Projects\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_SCINTFICNAMEMEANAGEMENT.resources
+D:\Projects\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_SEARCH.resources
+D:\Projects\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FRM_SUPPLIERSMANGEMENT.resources
+D:\Projects\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.Properties.Resources.resources
+D:\Projects\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management Project Pharmacy.csproj.GenerateResource.Cache
+D:\Projects\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\Management Project Pharmacy.exe.licenses
+D:\Projects\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\RdlCompile.cache
+D:\Projects\Management Project Pharmacy\Management Project Pharmacy\obj\Debug\RdlCompile.compiled
+D:\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\bin\Debug\Management Project Pharmacy.exe.config
+D:\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\bin\Debug\Management Project Pharmacy.exe.manifest
+D:\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\bin\Debug\Management Project Pharmacy.application
+D:\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\bin\Debug\Management Project Pharmacy.exe
+D:\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\bin\Debug\Management Project Pharmacy.pdb
+D:\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\bin\Debug\CrystalDecisions.Shared.dll
+D:\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\bin\Debug\FlashControlV71.dll
+D:\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\bin\Debug\MetroFramework.Design.dll
+D:\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\bin\Debug\MetroFramework.dll
+D:\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\bin\Debug\MetroFramework.Fonts.dll
+D:\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\bin\Debug\ShockwaveFlashObjects.dll
+D:\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\bin\Debug\stdole.dll
+D:\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FormAddNewCustomer.resources
+D:\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FormAddNewOrder.resources
+D:\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FormAddNewUser.resources
+D:\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FormBackup.resources
+D:\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FormQeury.resources
+D:\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FormRestor.resources
+D:\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.RPT.FormReports.resources
+D:\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FormControls.resources
+D:\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FormManagementCity.resources
+D:\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FormManagementCountry.resources
+D:\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FormManagementCustomer.resources
+D:\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.BL.FormManagementOrder.resources
+D:\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FormManagementUser.resources
+D:\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FormMain.resources
+D:\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FormManagementAcviveMaterial.resources
+D:\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FormAddNewActiveMateril.resources
+D:\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FormAddNewCategory.resources
+D:\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FormAddNewProduct.resources
+D:\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FormAddNewPurchasse.resources
+D:\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FormAddNewSupplire.resources
+D:\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FormAddNewScientifcName.resources
+D:\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FormManagementCategory.resources
+D:\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.FormLogin.resources
+D:\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FormImageProduct.resources
+D:\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FormExpirdDateProduct.resources
+D:\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FormManagementProduct.resources
+D:\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FormManagementRequste.resources
+D:\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FormManagementScientifcName.resources
+D:\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FormSearch.resources
+D:\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FormManagementSupplire.resources
+D:\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.Properties.Resources.resources
+D:\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.SystemControls.FormSendMassage.resources
+D:\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.SystemControls.FormShowMessage.resources
+D:\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\obj\Debug\Management Project Pharmacy.csproj.GenerateResource.Cache
+D:\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\obj\Debug\Management Project Pharmacy.exe.licenses
+D:\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\obj\Debug\Management Project Pharmacy.exe.manifest
+D:\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\obj\Debug\Management Project Pharmacy.application
+D:\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\obj\Debug\Management Project Pharmacy.exe
+D:\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\obj\Debug\Management Project Pharmacy.pdb
+D:\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\obj\Debug\Management Project Pharmacy.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\bin\Debug\Management Project Pharmacy.exe.config
+C:\Users\Abdelaziz\Documents\Visual Studio 2015\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\bin\Debug\Management Project Pharmacy.exe.config
+C:\Users\Abdelaziz\Documents\Visual Studio 2015\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\bin\Debug\Management Project Pharmacy.exe.manifest
+C:\Users\Abdelaziz\Documents\Visual Studio 2015\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\bin\Debug\Management Project Pharmacy.application
+C:\Users\Abdelaziz\Documents\Visual Studio 2015\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\bin\Debug\Management Project Pharmacy.exe
+C:\Users\Abdelaziz\Documents\Visual Studio 2015\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\bin\Debug\Management Project Pharmacy.pdb
+C:\Users\Abdelaziz\Documents\Visual Studio 2015\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Abdelaziz\Documents\Visual Studio 2015\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Abdelaziz\Documents\Visual Studio 2015\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Abdelaziz\Documents\Visual Studio 2015\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Abdelaziz\Documents\Visual Studio 2015\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\bin\Debug\FlashControlV71.dll
+C:\Users\Abdelaziz\Documents\Visual Studio 2015\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Abdelaziz\Documents\Visual Studio 2015\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Abdelaziz\Documents\Visual Studio 2015\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Abdelaziz\Documents\Visual Studio 2015\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Abdelaziz\Documents\Visual Studio 2015\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Abdelaziz\Documents\Visual Studio 2015\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Abdelaziz\Documents\Visual Studio 2015\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Abdelaziz\Documents\Visual Studio 2015\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Abdelaziz\Documents\Visual Studio 2015\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Abdelaziz\Documents\Visual Studio 2015\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Abdelaziz\Documents\Visual Studio 2015\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Abdelaziz\Documents\Visual Studio 2015\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Abdelaziz\Documents\Visual Studio 2015\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Abdelaziz\Documents\Visual Studio 2015\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\bin\Debug\stdole.dll
+C:\Users\Abdelaziz\Documents\Visual Studio 2015\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FormAddNewCustomer.resources
+C:\Users\Abdelaziz\Documents\Visual Studio 2015\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FormAddNewOrder.resources
+C:\Users\Abdelaziz\Documents\Visual Studio 2015\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FormAddNewUser.resources
+C:\Users\Abdelaziz\Documents\Visual Studio 2015\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FormBackup.resources
+C:\Users\Abdelaziz\Documents\Visual Studio 2015\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FormQeury.resources
+C:\Users\Abdelaziz\Documents\Visual Studio 2015\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FormRestor.resources
+C:\Users\Abdelaziz\Documents\Visual Studio 2015\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.RPT.FormReports.resources
+C:\Users\Abdelaziz\Documents\Visual Studio 2015\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FormControls.resources
+C:\Users\Abdelaziz\Documents\Visual Studio 2015\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FormManagementCity.resources
+C:\Users\Abdelaziz\Documents\Visual Studio 2015\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FormManagementCountry.resources
+C:\Users\Abdelaziz\Documents\Visual Studio 2015\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FormManagementCustomer.resources
+C:\Users\Abdelaziz\Documents\Visual Studio 2015\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.BL.FormManagementOrder.resources
+C:\Users\Abdelaziz\Documents\Visual Studio 2015\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FormManagementUser.resources
+C:\Users\Abdelaziz\Documents\Visual Studio 2015\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FormMain.resources
+C:\Users\Abdelaziz\Documents\Visual Studio 2015\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FormManagementAcviveMaterial.resources
+C:\Users\Abdelaziz\Documents\Visual Studio 2015\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FormAddNewActiveMateril.resources
+C:\Users\Abdelaziz\Documents\Visual Studio 2015\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FormAddNewCategory.resources
+C:\Users\Abdelaziz\Documents\Visual Studio 2015\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FormAddNewProduct.resources
+C:\Users\Abdelaziz\Documents\Visual Studio 2015\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FormAddNewPurchasse.resources
+C:\Users\Abdelaziz\Documents\Visual Studio 2015\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FormAddNewSupplire.resources
+C:\Users\Abdelaziz\Documents\Visual Studio 2015\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FormAddNewScientifcName.resources
+C:\Users\Abdelaziz\Documents\Visual Studio 2015\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FormManagementCategory.resources
+C:\Users\Abdelaziz\Documents\Visual Studio 2015\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.FormLogin.resources
+C:\Users\Abdelaziz\Documents\Visual Studio 2015\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FormImageProduct.resources
+C:\Users\Abdelaziz\Documents\Visual Studio 2015\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FormExpirdDateProduct.resources
+C:\Users\Abdelaziz\Documents\Visual Studio 2015\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FormManagementProduct.resources
+C:\Users\Abdelaziz\Documents\Visual Studio 2015\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FormManagementRequste.resources
+C:\Users\Abdelaziz\Documents\Visual Studio 2015\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FormManagementScientifcName.resources
+C:\Users\Abdelaziz\Documents\Visual Studio 2015\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FormSearch.resources
+C:\Users\Abdelaziz\Documents\Visual Studio 2015\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.PL.FormManagementSupplire.resources
+C:\Users\Abdelaziz\Documents\Visual Studio 2015\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.Properties.Resources.resources
+C:\Users\Abdelaziz\Documents\Visual Studio 2015\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.SystemControls.FormSendMassage.resources
+C:\Users\Abdelaziz\Documents\Visual Studio 2015\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\obj\Debug\Management_Project_Pharmacy.SystemControls.FormShowMessage.resources
+C:\Users\Abdelaziz\Documents\Visual Studio 2015\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\obj\Debug\Management Project Pharmacy.csproj.GenerateResource.Cache
+C:\Users\Abdelaziz\Documents\Visual Studio 2015\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\obj\Debug\Management Project Pharmacy.exe.licenses
+C:\Users\Abdelaziz\Documents\Visual Studio 2015\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\obj\Debug\Management Project Pharmacy.exe.manifest
+C:\Users\Abdelaziz\Documents\Visual Studio 2015\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\obj\Debug\Management Project Pharmacy.application
+C:\Users\Abdelaziz\Documents\Visual Studio 2015\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\obj\Debug\Management Project Pharmacy.exe
+C:\Users\Abdelaziz\Documents\Visual Studio 2015\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\obj\Debug\Management Project Pharmacy.pdb
+C:\Users\Abdelaziz\Documents\Visual Studio 2015\Projects\Management Project Pharmacy Descktop\Management Project Pharmacy\obj\Debug\Management Project Pharmacy.csprojResolveAssemblyReference.cache

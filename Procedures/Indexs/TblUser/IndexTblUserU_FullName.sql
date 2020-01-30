@@ -1,0 +1,2 @@
+Create index IndexTblUserU_FullName
+on TblUsers(U_FullName)

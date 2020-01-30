@@ -1,0 +1,16 @@
+﻿
+string ErrorMsg;
+            try
+            {
+                OpenFileDialog ofd = new OpenFileDialog();
+                ofd.Filter = "All Files|*.*|jpg|*.jpg|Png|*.png";
+                ofd.ShowDialog();
+                Pic.Image = Image.FromFile(ofd.FileName);
+            }
+            catch (Exception ex)
+            {
+                ErrorMsg = ex.Message;
+            }
+
+
+ofd.FileName = "C:\\Users\\Abdelaziz\\Pictures\\24125358_304774850022650_7322888169886580736_n.jpg"

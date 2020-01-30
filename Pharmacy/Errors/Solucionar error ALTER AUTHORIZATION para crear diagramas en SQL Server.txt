@@ -1,0 +1,4 @@
+https://www.youtube.com/watch?v=qnL9TAiQmm8 
+
+
+ALTER AUTHORIZATION ON DATABASE ::[A.Pharmacy_DB] To SA

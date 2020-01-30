@@ -1,0 +1,524 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{87D13D9B-8F6E-4B10-8795-0E6E4EA7FCB2}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Management_Project_Pharmacy</RootNamespace>
+    <AssemblyName>Management Project Pharmacy</AssemblyName>
+    <TargetFrameworkVersion>v3.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkProfile />
+    <PublishUrl>C:\Users\Abdelaziz\Desktop\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <WebPage>publish.htm</WebPage>
+    <ApplicationRevision>2</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+    <UseVSHostingProcess>true</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup />
+  <PropertyGroup>
+    <ApplicationIcon>
+    </ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <NoWin32Manifest>true</NoWin32Manifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>D265963E6E96BC681AA8F36E16DE1718E9E80AF1</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Management Project Pharmacy_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="MetroFramework">
+      <HintPath>..\..\..\Courses\Work\Flat UI Design\UIFiles-master\UIFiles-master\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design">
+      <HintPath>..\..\..\Courses\Work\Flat UI Design\UIFiles-master\UIFiles-master\MetroFramework.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts">
+      <HintPath>..\..\..\Courses\Work\Flat UI Design\UIFiles-master\UIFiles-master\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BL\ClassActiveMatrile.cs" />
+    <Compile Include="BL\ClassBackup.cs" />
+    <Compile Include="BL\ClassCategory.cs" />
+    <Compile Include="BL\ClassCity.cs" />
+    <Compile Include="BL\ClassCountry.cs" />
+    <Compile Include="BL\ClassCustomer.cs" />
+    <Compile Include="BL\ClassLogin.cs" />
+    <Compile Include="BL\ClassMassege.cs" />
+    <Compile Include="BL\ClassOrder.cs" />
+    <Compile Include="BL\ClassProduct.cs" />
+    <Compile Include="BL\ClassRequst.cs" />
+    <Compile Include="BL\ClassSecintificName.cs" />
+    <Compile Include="BL\ClassSupplire.cs" />
+    <Compile Include="BL\ClassUsers.cs" />
+    <Compile Include="DAL\DataAccessLayer.cs" />
+    <Compile Include="PL\FormBackup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\FormBackup.Designer.cs">
+      <DependentUpon>FormBackup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\FormQeury.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\FormQeury.Designer.cs">
+      <DependentUpon>FormQeury.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\FormRestor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\FormRestor.Designer.cs">
+      <DependentUpon>FormRestor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RPT\CrystalReportPrintAllProduct.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReportPrintAllProduct.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="RPT\CrystalReportPrintOneProduct.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReportPrintOneProduct.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="RPT\CrystalReportPrintRequest.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReportPrintRequest.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="RPT\FormReports.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RPT\FormReports.Designer.cs">
+      <DependentUpon>FormReports.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SystemControls\FormControls.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SystemControls\FormControls.Designer.cs">
+      <DependentUpon>FormControls.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\FormMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\FormMain.Designer.cs">
+      <DependentUpon>FormMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\FormManagementActivMaterial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\FormManagementActivMaterial.Designer.cs">
+      <DependentUpon>FormManagementActivMaterial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\FormAddNewActiveMateril.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\FormAddNewActiveMateril.Designer.cs">
+      <DependentUpon>FormAddNewActiveMateril.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\FormAddNewCategory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\FormAddNewCategory.Designer.cs">
+      <DependentUpon>FormAddNewCategory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\FormAddNewCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\FormAddNewCustomer.Designer.cs">
+      <DependentUpon>FormAddNewCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\FormAddNewOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\FormAddNewOrder.Designer.cs">
+      <DependentUpon>FormAddNewOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\FormAddNewProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\FormAddNewProduct.Designer.cs">
+      <DependentUpon>FormAddNewProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\FormAddNewPurchasse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\FormAddNewPurchasse.Designer.cs">
+      <DependentUpon>FormAddNewPurchasse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\FormAddNewSupplire.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\FormAddNewSupplire.Designer.cs">
+      <DependentUpon>FormAddNewSupplire.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\FormAddNewUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\FormAddNewUser.Designer.cs">
+      <DependentUpon>FormAddNewUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\FormAddNewScientifcName.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\FormAddNewScientifcName.Designer.cs">
+      <DependentUpon>FormAddNewScientifcName.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\FormManagementCategory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\FormManagementCategory.Designer.cs">
+      <DependentUpon>FormManagementCategory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\FormManagementCity.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\FormManagementCity.Designer.cs">
+      <DependentUpon>FormManagementCity.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\FormManagementCountry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\FormManagementCountry.Designer.cs">
+      <DependentUpon>FormManagementCountry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\FormManagementCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\FormManagementCustomer.Designer.cs">
+      <DependentUpon>FormManagementCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\FormLogin.Designer.cs">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\FormManagementOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\FormManagementOrder.Designer.cs">
+      <DependentUpon>FormManagementOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\FormImageProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\FormImageProduct.Designer.cs">
+      <DependentUpon>FormImageProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\FormExpirdDateProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\FormExpirdDateProduct.Designer.cs">
+      <DependentUpon>FormExpirdDateProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\FormManagementProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\FormManagementProduct.Designer.cs">
+      <DependentUpon>FormManagementProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\FormManagementRequste.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\FormManagementRequste.Designer.cs">
+      <DependentUpon>FormManagementRequste.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\FormManagementScientifcName.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\FormManagementScientifcName.Designer.cs">
+      <DependentUpon>FormManagementScientifcName.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\FormSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\FormSearch.Designer.cs">
+      <DependentUpon>FormSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\FormManagementSupplire.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\FormManagementSupplire.Designer.cs">
+      <DependentUpon>FormManagementSupplire.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\FormManagementUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\FormManagementUser.Designer.cs">
+      <DependentUpon>FormManagementUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SystemControls\FormSendMassage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SystemControls\FormSendMassage.Designer.cs">
+      <DependentUpon>FormSendMassage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SystemControls\FormShowMessage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SystemControls\FormShowMessage.Designer.cs">
+      <DependentUpon>FormShowMessage.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="PL\FormAddNewCustomer.resx">
+      <DependentUpon>FormAddNewCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\FormAddNewOrder.resx">
+      <DependentUpon>FormAddNewOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\FormAddNewUser.resx">
+      <DependentUpon>FormAddNewUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\FormBackup.resx">
+      <DependentUpon>FormBackup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\FormQeury.resx">
+      <DependentUpon>FormQeury.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\FormRestor.resx">
+      <DependentUpon>FormRestor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RPT\CrystalReportPrintAllProduct.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReportPrintAllProduct.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RPT\CrystalReportPrintOneProduct.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReportPrintOneProduct.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RPT\CrystalReportPrintRequest.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReportPrintRequest.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RPT\FormReports.resx">
+      <DependentUpon>FormReports.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SystemControls\FormControls.resx">
+      <DependentUpon>FormControls.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\FormManagementCity.resx">
+      <DependentUpon>FormManagementCity.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\FormManagementCountry.resx">
+      <DependentUpon>FormManagementCountry.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\FormManagementCustomer.resx">
+      <DependentUpon>FormManagementCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\FormManagementOrder.resx">
+      <DependentUpon>FormManagementOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\FormManagementUser.resx">
+      <DependentUpon>FormManagementUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="PL\FormMain.resx">
+      <DependentUpon>FormMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\FormManagementActivMaterial.resx">
+      <DependentUpon>FormManagementActivMaterial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\FormAddNewActiveMateril.resx">
+      <DependentUpon>FormAddNewActiveMateril.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\FormAddNewCategory.resx">
+      <DependentUpon>FormAddNewCategory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\FormAddNewProduct.resx">
+      <DependentUpon>FormAddNewProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\FormAddNewPurchasse.resx">
+      <DependentUpon>FormAddNewPurchasse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\FormAddNewSupplire.resx">
+      <DependentUpon>FormAddNewSupplire.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\FormAddNewScientifcName.resx">
+      <DependentUpon>FormAddNewScientifcName.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\FormManagementCategory.resx">
+      <DependentUpon>FormManagementCategory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\FormLogin.resx">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\FormImageProduct.resx">
+      <DependentUpon>FormImageProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\FormExpirdDateProduct.resx">
+      <DependentUpon>FormExpirdDateProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\FormManagementProduct.resx">
+      <DependentUpon>FormManagementProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\FormManagementRequste.resx">
+      <DependentUpon>FormManagementRequste.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\FormManagementScientifcName.resx">
+      <DependentUpon>FormManagementScientifcName.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\FormSearch.resx">
+      <DependentUpon>FormSearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\FormManagementSupplire.resx">
+      <DependentUpon>FormManagementSupplire.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="SystemControls\FormSendMassage.resx">
+      <DependentUpon>FormSendMassage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SystemControls\FormShowMessage.resx">
+      <DependentUpon>FormShowMessage.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unknown-avatar.png" />
+    <None Include="Resources\download.png" />
+    <None Include="Resources\Snake_5.jpg" />
+    <None Include="Resources\Reset2_32x32.png" />
+    <None Include="Resources\Actions-user-group-new-icon.png" />
+    <None Include="Resources\Log Out.png" />
+    <None Include="Resources\Admin-icon.png" />
+    <None Include="Resources\login.PNG" />
+    <None Include="Resources\1484075739_Caucasian_boss.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login-icon-png-27.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Image Product Pharmacy\Png\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\200.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Image Product Pharmacy\jpg\CITRIMAX  20 CAP.jpg" />
+    <None Include="Resources\Bar Chart.png" />
+    <None Include="Resources\Modify.png" />
+    <None Include="Resources\Email.png" />
+    <None Include="Resources\Info.png" />
+    <None Include="Resources\Profile.png" />
+    <None Include="Resources\Delete.png" />
+    <None Include="Resources\Add1.png" />
+    <None Include="Resources\Save.png" />
+    <None Include="Resources\Print.png" />
+    <None Include="Resources\Exit.png" />
+    <None Include="Resources\Add.png" />
+    <None Include="Resources\1057aa8ca2e38a3 - Copy.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

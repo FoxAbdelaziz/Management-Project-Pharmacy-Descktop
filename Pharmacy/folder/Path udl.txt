@@ -1,0 +1,9 @@
+this.Text="22/11/2009";
+
+DateTime date = DateTime.ParseExact(this.Text, "dd/MM/yyyy", null);
+
+
+=========================================
+this.Text="22/11/2009";
+
+DateTime date = DateTime.Parse(this.Text);

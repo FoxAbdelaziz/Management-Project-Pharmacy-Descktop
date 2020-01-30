@@ -1,0 +1,3 @@
+execute  SP_SelectAllProduct
+
+insert into TblProduct (P_Name) values ('101 A LOTION 100 ML')

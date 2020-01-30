@@ -1,0 +1,20 @@
+﻿Req_Date : {1/24/2018 5:14:28 PM}
+Total : {253750}
+Su_ID :{8}
+Buyer_Name : {}
+
+TypeRequstDetails
+       P_ID     Qty     P_Price
+	1	50	50
+	2	50	5
+	3	50	5000
+	10004	50	20
+
+TypeExpiredDate
+
+             Ex_Date   P_ID    Qty     
+1/24/2018 12:00:00 AM	1	50
+               		2	50
+		        3	50
+		       10004	50
+

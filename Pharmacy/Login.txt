@@ -1,0 +1,30 @@
+﻿            string Process = "";
+            if (txtusernam.Text == string.Empty)
+            {
+                MessageBox.Show("يجب أدخال أسم المستخدم", "  ", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
+            else if (txtpass.Text == string.Empty)
+            {
+                MessageBox.Show("يجب أدخال كلمة المرور", "  ", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
+            else
+            {
+                DataTable dt = ClassLogin.SP_Login(txtusernam.Text, txtpass.Text);
+                if (dt.Rows.Count > 0)
+                {
+                    Process = "العملية نجحت بالدخول";
+                    int i = ClassLogin.SP_ControlInsert(txtusernam.Text, txtpass.Text, DateTime.Now, Process);
+                    PL.FormMain.Check = true;
+                    Program.UserFull = dt.Rows[0]["U_FullName"].ToString();
+                    this.Close();
+                }
+                else
+                {
+                    Process = "العملية فشلت بالدخول";
+                    int i = ClassLogin.SP_ControlInsert(txtusernam.Text, txtpass.Text, DateTime.Now, Process);
+                    MessageBox.Show("أسم المستخدم أو كلمة المرور غالط", "", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    txtpass.Text = txtusernam.Text = string.Empty;
+                }
+            }
